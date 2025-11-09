@@ -1,6 +1,5 @@
 # PlatformIO build directories
 .pio/
-!.pio/libdeps/.gitkeep
 
 # VS Code specific
 .vscode/.browse.c_cpp.db*
